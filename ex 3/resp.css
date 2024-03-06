@@ -1,0 +1,56 @@
+body {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    font-family: Courier, monospace;
+}
+
+div {
+    min-width: 20vw;
+    min-height: 20vh;
+    background-color: transparent;
+    transition: background-color 0.5s;
+    cursor: pointer;
+}
+
+.box {
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+}
+
+/* bonus */
+.box:hover {
+    transform: scale(1.5);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    border-color: rgba(0, 0, 0, 0.5);
+    border-radius: 50%;
+}
+
+
+/* definindo uma regra de midia que especifique que as regras dentro dela serão aplicadas apenas quando a largura da tela for no máximo 768 pixels.*/
+@media screen and (max-width: 768px) {
+    .box {
+        width: 100%;
+    }
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.red {
+    background-color: red;
+}
+
+.green {
+    background-color: green;
+}
+
+.blue {
+    background-color: blue;
+}

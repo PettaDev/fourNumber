@@ -1,0 +1,37 @@
+
+body{
+    font-family: 'Arial', sans-serif;
+    background-color: #f3f3f3;
+    display:flex;
+}
+
+.title {
+    color: #333;
+    font-size: 24px;
+
+}
+
+.author {
+    color: #666;
+    font-size: 14px;
+
+}
+
+.content {
+    color: #444;
+    font-size: 16px;
+}
+
+.image {
+    width: 100%;
+} 
+
+.container {
+    margin: 20px auto;
+    max-width: 800px;
+    background: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+}
+
+/* 10. Substitua a imagem de exemplo pela imagem dentro da pasta imagens.  */

@@ -1,0 +1,23 @@
+
+.tabela {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tabela th, .tabela td {
+    border: 1px solid #000;
+    padding: 2vh;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Arial', sans-serif;
+}
+
+.tabela th {
+    background-color: black;
+    color: white;
+}
+
+/* :nth-child(even) serve para selecionar só os pares */
+.tabela tbody tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
