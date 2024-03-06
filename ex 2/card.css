@@ -1,0 +1,8 @@
+.container{
+    width: 800px;
+    height: 750px;
+    display: flex;
+    font-family: 'Arial', sans-serif;
+    background: #fff;
+    padding: 20px;
+}
