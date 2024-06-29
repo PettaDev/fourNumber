@@ -1,16 +1,22 @@
-<h1>Atvidade 4. Quatro exercícios sobre dev. Web</h1>
+# 4 é o número
 
-<h2> Trabalhando com:
-<li>HTML e CSS</li>
-<li>Responsividade</li>
-<li>Tabelas</li>
-<li>BootStrap</li>
-</h2>
 
-<h3>Instruções</h3>
-Um gentil pirata sideral realiza seu sonho de distribuir maçãs a elfos domésticos. 
+<br/>
 
-E você tem atividade para fazer!
-Todos os modelos e exemplos de entrega estão anexos
-#
-*https://forms.gle/ubvCWC7V1pTVo47p*
+
+<div align="center">
+    <h2>⚒️ Languages-Frameworks-Tools ⚒️</h2>
+    <img src="https://skillicons.dev/icons?i=github,git,vscode,html,css,bootstrap" />
+</div>
+
+- [x] [Exercício 001]
+- [x] [Exercício 002]
+- [x] [Exercício 003]
+- [x] [Exercício 004]
+<br/>
+
+
+### 📋 O que foi trabalhado?
+>Responsividade | Tabelas | Bootstrap
+
+https://forms.gle/ubvCWC7V1pTVo47p
